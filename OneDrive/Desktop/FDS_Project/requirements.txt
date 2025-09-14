@@ -1,0 +1,9 @@
+streamlit
+openai-whisper
+moviepy
+textblob
+srt
+transformers
+torch
+ffmpeg-python
+
